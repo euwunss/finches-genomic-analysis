@@ -12,4 +12,5 @@ Gene sequence: DNA sequence for a portion of the ALX1 gene
 Beak shape score: Quantitative measure of beak pointedness
 Beak type: Categorical classification ('blunt', 'pointed', or 'deep-wide')
 By processing this data, we investigate the correlation between genetic sequences and the phenotypic variation in finch beaks.
+
 ![image](https://github.com/user-attachments/assets/2d814065-53d2-4596-b326-4dba0921c7c3)
