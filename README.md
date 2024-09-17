@@ -5,7 +5,7 @@ Inspired by the work of Lamichhaney et al. (2015), Evolution of Darwin’s finch
 # Data:
 The project uses a CSV file (finches.csv) containing:
 
-Species: Scientific name of the finch species
+Species: Scientific name of the finch species  
 Individual ID: Unique identifier for each bird
 Allele: A or B (diploid representation)
 Gene sequence: DNA sequence for a portion of the ALX1 gene
